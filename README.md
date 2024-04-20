@@ -21,5 +21,7 @@
 ![Devtools](https://img.shields.io/badge/DevTools-B0C4DE?style=for-the-badge&logo=DevTools&logoColor=)
 ![Fidler](https://img.shields.io/badge/Fidler-B0C4DE?style=for-the-badge&logo=Fidler&logoColor=)
 ![SQL](https://img.shields.io/badge/SQL-B0C4DE?style=for-the-badge&logo=SQL&logoColor=)
-
-
+![Pycharm](https://img.shields.io/badge/Pycharm-B0C4DE?style=for-the-badge&logo=Pycharm&logoColor=)
+![Android Studio](https://img.shields.io/badge/Android_Studio-B0C4DE?style=for-the-badge&logo=AndroidStudio&logoColor=)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-B0C4DE?style=for-the-badge&logo=Visual&logoColor=)
+![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=Git&logoColor=)
