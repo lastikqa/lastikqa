@@ -5,7 +5,7 @@
 ## My projects
 [![Python](https://img.shields.io/badge/Autotesting-B0C4DE?style=for-the-badge&logo=python&logoColor=)](https://github.com/lastikqa/python/tree/master/PyTest)
 
-[![Tester](https://img.shields.io/badge/test_artifacts-B0C4DE?style=for-the-badge&logo=QA&logoColor=)](https://github.com/lastikqa/python/tree/master/PyTest)
+[![Tester](https://img.shields.io/badge/test_artifacts-B0C4DE?style=for-the-badge&logo=QA&logoColor=)](https://github.com/lastikqa/test_artifacts)
 
 [![Other Python](https://img.shields.io/badge/other_python-B0C4DE?style=for-the-badge&logo=python&logoColor=)](https://github.com/lastikqa/python)
 
