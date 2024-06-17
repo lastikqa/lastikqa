@@ -2,6 +2,7 @@
 
 ## I`m a begginner tester and a learner of python 
 [![Stepic](https://img.shields.io/badge/Stepic-B0C4DE?style=for-the-badge&logo=stepic&logoColor=)](https://stepik.org/users/588027790/certificates)
+[![My Certs](https://img.shields.io/badge/My_Certs-B0C4DE?style=for-the-badge&logo=stepic&logoColor=)](https://github.com/lastikqa/about_me)
 ## My projects
 [![Python](https://img.shields.io/badge/Autotesting-B0C4DE?style=for-the-badge&logo=python&logoColor=)](https://github.com/lastikqa/python_selenium_autotests)
 
